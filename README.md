@@ -1,32 +1,21 @@
-# <a href="https://www.linkedin.com/in/whsianoo/">Wilson Siano</a>'s IT and Cybersecurity Project Portfolio 🔐
+### Hi, I'm Wilson 👋
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat)
+![Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue?style=flat)
+![A+](https://img.shields.io/badge/CompTIA-A%2B-green?style=flat)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=flat&logo=amazonaws&logoColor=white)
+
+I'm an IT professional with a foundation across systems support, networking, and cloud fundamentals — CompTIA A+, Network+, and Security+ certified, plus AWS Certified Cloud Practitioner — and I'm currently expanding into cybersecurity, working hands-on with Azure, Microsoft Defender, and Microsoft Sentinel.
+
+---
+
+**PROJECTS/LABS**
+
+- 🔎 [Honeypot + Sentinel Lab](link-to-repo) — A simulated exposed host, compromised end-to-end, investigated with Microsoft Sentinel. Includes a full incident report, detection queries (KQL), and a forensic comparison of system snapshots.
+
+*More projects added as I complete them.*
 
 
-## ⚠️ Vulnerability Management Projects
+---
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
-<hr/>
-
-## 🤳 Connect With Me
-
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/whsianoo
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
