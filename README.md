@@ -12,7 +12,7 @@ I'm an IT professional with a foundation across systems support, networking, and
 **PROJECTS/LABS**
 
 - 🛡️ [Vulnerability Management Program Implementation](https://github.com/whsiano/vulnerability-management-program) — Designed and implemented a vulnerability management program for a simulated company of ~200 servers, using a single Azure VM as the testbed. Includes scanning methodology, remediation prioritization, and program documentation.
-- 🔎 [Honeypot + Sentinel Lab](link-to-repo) — A simulated exposed host, compromised end-to-end, investigated with Microsoft Sentinel. Includes a full incident report, detection queries (KQL), and a forensic comparison of system snapshots.
+- 🔎 [MySQL Honeypot Lab](https://github.com/whsiano/mysql-honeypot-lab) — A simulated exposed host, compromised end-to-end, investigated with Microsoft Sentinel. Includes a full incident report, detection queries (KQL), and a forensic comparison of system snapshots.
 
 *More projects added as I complete them.*
 
