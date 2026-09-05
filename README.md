@@ -20,5 +20,5 @@ I'm an IT professional with a foundation across systems support, networking, and
 - 🕵️ [Threat Hunt Scenario - Tor Usage](https://github.com/whsiano/threat-hunting-scenario-tor)
 
 
-## Connect With Me 
+## 🤳 Connect With Me 
 [<img src="https://github.com/user-attachments/assets/860f527b-ca2a-46d7-8277-79ba6853948b" width="50" height="50">](https://www.linkedin.com/in/whsianoo/)
