@@ -1,4 +1,4 @@
-# Hi, I'm Wilson 👋
+# Wilson Siano: IT Portfolio 👨‍💻
 
 [<img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="90">]()
 [<img src="https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" height="90">]()
