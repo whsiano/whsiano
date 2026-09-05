@@ -7,13 +7,17 @@
 
 I'm an IT professional with a foundation across systems support, networking, and cloud fundamentals — CompTIA A+, Network+, and Security+ certified, plus AWS Certified Cloud Practitioner — and I'm currently expanding into cybersecurity, working hands-on with Azure, Microsoft Defender, Microsoft Sentinel and Tenable.
 
----
 
-## Cybersecurity Labs/Projects 
+## ⚠️ Vulnerability Management
 
-- 🛡️ [Vulnerability Management Program Implementation](https://github.com/whsiano/vulnerability-management-program) — Designed and implemented a vulnerability management program for a simulated company of ~200 servers, using a single Azure VM as the testbed. Includes scanning methodology, remediation prioritization, and program documentation.
-- 🔎 [MySQL Honeypot](https://github.com/whsiano/mysql-honeypot-lab) — A simulated exposed host, compromised end-to-end, investigated with Microsoft Sentinel. Includes a full incident report, detection queries (KQL), and a forensic comparison of system snapshots.
-- 🕵️ [Threat Hunt Scenario - Tor Usage](https://github.com/whsiano/threat-hunting-scenario-tor) - A simulated security investigation using Microsoft Defender and Sentinel to detect and trace the secret installation and use of Tor Browser (an anonymity tool) on a company device — from download to network connection to file activity left behind.
+- 🛡️ [Vulnerability Management Program Implementation](https://github.com/whsiano/vulnerability-management-program)
+- ⚙️ [Windows 11 Programmatic Remediations & STIGs](https://github.com/whsiano/windows-programmatic-remediations)
+
+
+## 🚨 Threat Hunts & Security Operations
+
+- 🔎 [MySQL Honeypot](https://github.com/whsiano/mysql-honeypot-lab) 
+- 🕵️ [Threat Hunt Scenario - Tor Usage](https://github.com/whsiano/threat-hunting-scenario-tor)
 
 
 ---
