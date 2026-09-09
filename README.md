@@ -10,15 +10,15 @@ I'm an IT professional with a foundation across systems support, networking, and
 
 ## ⚠️ Vulnerability Management
 
-- 🛡️ [Vulnerability Management Program Implementation](https://github.com/whsiano/vulnerability-management-program)
-- ⚙️ [Windows 11 Programmatic Remediations & STIGs](https://github.com/whsiano/windows-programmatic-remediations)
+- [Vulnerability Management Program Implementation](https://github.com/whsiano/vulnerability-management-program)
+- [Windows 11 Programmatic Remediations & STIGs](https://github.com/whsiano/windows-programmatic-remediations)
 
 
 ## 🚨 Threat Hunts & Security Operations
 
-- 🔎 [MySQL Honeypot](https://github.com/whsiano/mysql-honeypot-lab) 
-- 🕵️ [Threat Hunt: Tor Usage](https://github.com/whsiano/threat-hunting-scenario-tor)
-- 🕵️ [Threat Hunt: Azuki - Port of Entry](https://github.com/whsiano/threat-hunt-azuki-port-of-entry)
+- [MySQL Honeypot](https://github.com/whsiano/mysql-honeypot-lab) 
+- [Threat Hunt: Tor Usage](https://github.com/whsiano/threat-hunting-scenario-tor)
+- [Threat Hunt: Azuki - Port of Entry](https://github.com/whsiano/threat-hunt-azuki-port-of-entry)
 
 
 ## 🤳 Connect With Me 
