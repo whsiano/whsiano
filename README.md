@@ -17,7 +17,8 @@ I'm an IT professional with a foundation across systems support, networking, and
 ## 🚨 Threat Hunts & Security Operations
 
 - 🔎 [MySQL Honeypot](https://github.com/whsiano/mysql-honeypot-lab) 
-- 🕵️ [Threat Hunt Scenario - Tor Usage](https://github.com/whsiano/threat-hunting-scenario-tor)
+- 🕵️ [Threat Hunt: Tor Usage](https://github.com/whsiano/threat-hunting-scenario-tor)
+- 🕵️ [Threat Hunt: Azuki - Port of Entry](https://github.com/whsiano/threat-hunt-azuki-port-of-entry)
 
 
 ## 🤳 Connect With Me 
