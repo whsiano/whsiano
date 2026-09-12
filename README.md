@@ -20,7 +20,6 @@ I'm an IT professional with a foundation across systems support, networking, and
 - [Threat Hunt: Tor Usage](https://github.com/whsiano/threat-hunting-scenario-tor)
 - [Threat Hunt: Azuki - Port of Entry](https://github.com/whsiano/threat-hunt-azuki-port-of-entry)
 - [Threat Hunt: Another Day](https://github.com/whsiano/threat-hunt-another-day)
-- [Threat Hunt: JadePuffer](https://github.com/whsiano/threat-hunt-jadepuffer)
 
 
 ## 🤳 Connect With Me 
