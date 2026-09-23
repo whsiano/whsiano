@@ -11,7 +11,7 @@ I'm an IT professional with a foundation across systems support, networking, and
 ## ⚠️ Vulnerability Management
 
 - [Vulnerability Management Program Implementation](https://github.com/whsiano/vulnerability-management-program)
-- [Windows 11 Programmatic Remediations & STIGs](https://github.com/whsiano/windows-programmatic-remediations)
+- [Windows 11 STIG Remediations](https://github.com/whsiano/windows-programmatic-remediations/tree/main/STIGs)
 
 
 ## 🚨 Threat Hunts & Security Operations
