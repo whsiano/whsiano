@@ -14,7 +14,7 @@ I'm an IT professional with a foundation across systems support, networking, and
 | Category | Skills / Tools |
 |---|---|
 | **Threat Hunting & Detection** | Microsoft Sentinel (KQL, workbooks, log analytics), Microsoft Defender (advanced hunting, alert triage) |
-| **Vulnerability Management** | Tenable (scanning, findings triage), STIG remediation (Windows 11 hardening), vulnerability management program design |
+| **Vulnerability Management** | Tenable (scanning, findings triage), STIG remediations (Windows 11 & Linux - Ubuntu 24), vulnerability management program design |
 | **Security Operations & Monitoring** | Honeypot deployment and monitoring, Sentinel workbook geo-mapping, incident response workflow |
 | **Identity and Access Management** | Active Directory (in progress) |
 | **Cloud & Systems** | AWS fundamentals, Azure, networking and systems fundamentals |
@@ -26,7 +26,7 @@ I'm an IT professional with a foundation across systems support, networking, and
 
 - [Vulnerability Management Program Implementation](https://github.com/whsiano/vulnerability-management-program)
 - [Windows 11 STIG Remediations](https://github.com/whsiano/windows-programmatic-remediations/tree/main/STIGs)
-- [Linux (Ubuntu 22.04) STIG Remediations](https://github.com/whsiano/linux-programmatic-remediations/tree/main/STIGs)
+- [Linux (Ubuntu 24.04) STIG Remediations](https://github.com/whsiano/linux-programmatic-remediations/tree/main/STIGs)
 
 ## 🚨 Threat Hunts & Security Operations
 
