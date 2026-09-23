@@ -22,6 +22,17 @@ I'm an IT professional with a foundation across systems support, networking, and
 
 ---
 
+## 📋 Compliance & Frameworks
+
+- **HIPAA** — Health Insurance Portability and Accountability Act (healthcare data protection)
+- **PCI DSS** — Payment Card Industry Data Security Standard
+- **GDPR** — General Data Protection Regulation (EU data privacy)
+- **NIST SP 800-37** — Risk Management Framework (RMF)
+- **NIST SP 800-53** — Security and Privacy Controls for Information Systems
+- **NIST SP 800-61** — Computer Security Incident Handling Guide
+
+---
+
 ## ⚠️ Vulnerability Management
 
 - [Vulnerability Management Program Implementation](https://github.com/whsiano/vulnerability-management-program)
@@ -38,7 +49,9 @@ I'm an IT professional with a foundation across systems support, networking, and
 - [Threat Hunt: TideGlass](https://github.com/whsiano/threat-hunt-tideglass)
 
 ## 🪪 Identity & Access Management
-- Active Directory / lab in progress
+- Active Directory / in progress
+
+---
 
 ## 🤝 Connect With Me 
 [<img src="https://github.com/user-attachments/assets/860f527b-ca2a-46d7-8277-79ba6853948b" width="50" height="50">](https://www.linkedin.com/in/whsianoo/)
