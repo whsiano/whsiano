@@ -7,6 +7,8 @@
 
 I'm an IT professional with a foundation across systems support, networking, and cloud fundamentals — CompTIA A+, Network+, and Security+ certified, plus AWS Certified Cloud Practitioner — and I'm currently expanding into cybersecurity, working hands-on with Azure, Microsoft Defender, Microsoft Sentinel and Tenable.
 
+---
+
 ## 🛠️ Skills
 
 | Category | Skills / Tools |
@@ -18,12 +20,12 @@ I'm an IT professional with a foundation across systems support, networking, and
 | **Cloud & Systems** | AWS fundamentals, Azure (in progress), networking and systems fundamentals |
 | **Tools** | KQL, Sentinel, Defender, Tenable, AWS, Azure |
 
+---
 
 ## ⚠️ Vulnerability Management
 
 - [Vulnerability Management Program Implementation](https://github.com/whsiano/vulnerability-management-program)
 - [Windows 11 STIG Remediations](https://github.com/whsiano/windows-programmatic-remediations/tree/main/STIGs)
-
 
 ## 🚨 Threat Hunts & Security Operations
 
@@ -34,9 +36,8 @@ I'm an IT professional with a foundation across systems support, networking, and
 - [Threat Hunt: JadePuffer](https://github.com/whsiano/threat-hunt-jadepuffer)
 - [Threat Hunt: TideGlass](https://github.com/whsiano/threat-hunt-tideglass)
 
-## 🪪 Identity and Access Management
+## 🪪 Identity & Access Management
 - Active Directory / lab in progress
-
 
 ## 🤝 Connect With Me 
 [<img src="https://github.com/user-attachments/assets/860f527b-ca2a-46d7-8277-79ba6853948b" width="50" height="50">](https://www.linkedin.com/in/whsianoo/)
