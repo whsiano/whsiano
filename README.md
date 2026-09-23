@@ -17,7 +17,7 @@ I'm an IT professional with a foundation across systems support, networking, and
 | **Vulnerability Management** | Tenable (scanning, findings triage), STIG remediation (Windows 11 hardening), vuln management program design |
 | **Security Operations & Monitoring** | Honeypot deployment and monitoring, Sentinel workbook geo-mapping, incident response workflow |
 | **Identity and Access Management** | Active Directory (in progress) |
-| **Cloud & Systems** | AWS fundamentals, Azure (in progress), networking and systems fundamentals |
+| **Cloud & Systems** | AWS fundamentals, Azure, networking and systems fundamentals |
 | **Tools** | KQL, Sentinel, Defender, Tenable, AWS, Azure |
 
 ---
