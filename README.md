@@ -39,6 +39,8 @@ I'm an IT professional with a foundation across systems support, networking, and
 - [Windows 11 STIG Remediations](https://github.com/whsiano/windows-programmatic-remediations/tree/main/STIGs)
 - [Linux (Ubuntu 24.04) STIG Remediations](https://github.com/whsiano/linux-programmatic-remediations/tree/main/STIGs)
 
+---
+
 ## 🚨 Threat Hunts & Security Operations
 
 - [MySQL Honeypot](https://github.com/whsiano/mysql-honeypot-lab) 
@@ -48,8 +50,21 @@ I'm an IT professional with a foundation across systems support, networking, and
 - [Threat Hunt: JadePuffer](https://github.com/whsiano/threat-hunt-jadepuffer)
 - [Threat Hunt: TideGlass](https://github.com/whsiano/threat-hunt-tideglass)
 
+---
+
 ## 🪪 Identity & Access Management
 - Active Directory / in progress
+
+---
+
+## 🚧 Currently Learning & Next Steps
+
+- Expanding Linux STIG remediation scripts
+- Active Directory labs (Identity and Access Management)
+- Additional Sentinel/Defender threat hunt scenarios
+- Renew Security+
+- Learn Python
+- Start B.S Information Technology @ WGU 
 
 ---
 
