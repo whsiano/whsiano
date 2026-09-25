@@ -60,7 +60,6 @@ I'm an IT professional with a foundation across systems support, networking, and
 ## 🚧 Currently Learning & Next Steps
 
 - Active Directory labs (Identity and Access Management)
-- Additional Sentinel/Defender threat hunt scenarios
 - Renew Security+
 - Learn Python
 - Start B.S Information Technology @ WGU 
