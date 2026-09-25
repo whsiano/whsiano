@@ -59,7 +59,6 @@ I'm an IT professional with a foundation across systems support, networking, and
 
 ## 🚧 Currently Learning & Next Steps
 
-- Expanding Linux STIG remediation scripts
 - Active Directory labs (Identity and Access Management)
 - Additional Sentinel/Defender threat hunt scenarios
 - Renew Security+
