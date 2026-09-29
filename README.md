@@ -53,7 +53,7 @@ I'm an IT professional with a foundation across systems support, networking, and
 ---
 
 ## 🪪 Identity & Access Management
-- [Basic Employee Onboarding (AD)(RBAC)](https://github.com/whsiano/basic-employee-onboarding-ad-rbac)
+- [Active Directory - Basic Employee Onboarding (RBAC)](https://github.com/whsiano/basic-employee-onboarding-ad-rbac)
 
 ---
 
