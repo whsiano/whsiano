@@ -16,7 +16,7 @@ I'm an IT professional with a foundation across systems support, networking, and
 | **Threat Hunting & Detection** | Microsoft Sentinel (KQL, workbooks, log analytics), Microsoft Defender (advanced hunting, alert triage) |
 | **Vulnerability Management** | Tenable (scanning, findings triage), STIG remediations (Windows 11 & Linux - Ubuntu 24), vulnerability management program design |
 | **Security Operations & Monitoring** | Honeypot deployment and monitoring, Sentinel workbook geo-mapping, incident response workflow |
-| **Identity and Access Management** | Active Directory (in progress) |
+| **Identity and Access Management** | Active Directory |
 | **Cloud & Systems** | AWS fundamentals, Azure, networking and systems fundamentals |
 | **Tools** | KQL, Sentinel, Defender, Tenable, AWS, Azure |
 
@@ -53,7 +53,7 @@ I'm an IT professional with a foundation across systems support, networking, and
 ---
 
 ## 🪪 Identity & Access Management
-- [Active Directory - Basic Employee Onboarding](https://github.com/whsiano/basic-employee-onboarding-ad-rbac)
+- [Basic Employee Onboarding](https://github.com/whsiano/basic-employee-onboarding-ad-rbac)
 
 ---
 
