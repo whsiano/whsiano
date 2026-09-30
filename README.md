@@ -1,9 +1,10 @@
 # Wilson Siano: IT Portfolio 👨‍💻
 
-[<img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="90">]()
-[<img src="https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" height="90">]()
-[<img src="https://images.credly.com/size/340x340/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" height="90">]()
-[<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="90">]()
+[<img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="90">](https://www.credly.com/badges/52c457af-d353-4ee6-a489-bbba69e84ee8/public_url)
+[<img src="https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" height="90">](https://www.credly.com/badges/31df3a94-2e58-4771-8a4d-ac6e30b7207e/public_url)
+[<img src="https://images.credly.com/size/340x340/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" height="90">](https://www.credly.com/badges/6cd9224c-7a2c-4d5d-b780-d158f1da361d/public_url)
+[<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="90">](https://www.credly.com/badges/e235f2b8-43ef-4478-903f-bf59306f854f/public_url)
+
 
 I'm an IT professional with a foundation across systems support, networking, and cloud fundamentals — CompTIA A+, Network+, and Security+ certified, plus AWS Certified Cloud Practitioner — and I'm currently expanding into cybersecurity, working hands-on with Azure, Microsoft Defender, Microsoft Sentinel and Tenable.
 
