@@ -1,4 +1,4 @@
-# Wilson Siano: IT Portfolio 👨‍💻
+# Wilson Siano: Portfolio 👨‍💻
 
 [<img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="90">](https://www.credly.com/badges/52c457af-d353-4ee6-a489-bbba69e84ee8/public_url)
 [<img src="https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" height="90">](https://www.credly.com/badges/31df3a94-2e58-4771-8a4d-ac6e30b7207e/public_url)
@@ -54,7 +54,7 @@ I'm an IT professional with a foundation across systems support, networking, and
 ---
 
 ## 🪪 Identity & Access Management
-- [Basic Employee Onboarding](https://github.com/whsiano/basic-employee-onboarding-ad-rbac)
+- [Basic Employee Onboarding (RBAC)](https://github.com/whsiano/basic-employee-onboarding-ad-rbac)
 
 ---
 
